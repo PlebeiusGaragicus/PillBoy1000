@@ -4,16 +4,16 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="seedsigner",
+    name="pillboy",
     version="0.6.0",
-    author="SeedSigner",
+    author="PlebbyG",
     author_email="author@example.com",
-    description="Build an offline, airgapped Bitcoin signing device for less than $50!",
+    description="Build a thing!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SeedSigner/seedsigner",
+    url="https://github.com/PlebeiusGaragicus/pillboy1000",
     project_urls={
-        "Bug Tracker": "https://github.com/SeedSigner/seedsigner/issues",
+        "Bug Tracker": "https://github.com/PlebeiusGaragicus/pillboy1000/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
